@@ -2,7 +2,7 @@
 
 Olá, me chamo **Diego Andrade**, sou **Desenvolvedor Backend** em formação na Cubos Academy, conclusão em Agosto/2022. O objetivo inicial era ser um Desenvolvedor Full Stack, mas devido falta de tempo por está no mercado de trabalho tive que optar pelo Back, mais objetivo inicial permanece inalterado.
 
-**Objetivos Acadêmicos:** Ingressar em um Curso Superior Tecnologo em Analise e Desenvolvimento de Sistema entre 2022 e 2023 e também conseguir aprender a stack de Front. não mudou mas pode me chamar de Jess, trabalho como desenvolvedora Front-end desde 2015 e sou apaixonada por programar e compartilhar conhecimento, experiências e estudos.
+**Objetivos Acadêmicos:** Ingressar em um Curso Superior Tecnólogo em Analise e Desenvolvimento de Sistema entre 2022 e 2023 e também conseguir aprender a stack de Front. não mudou mas pode me chamar de Jess, trabalho como desenvolvedora Front-end desde 2015 e sou apaixonada por programar e compartilhar conhecimento, experiências e estudos.
 
 **Objetivos Profissionais:** Efetuar a transição de carreira ainda esse ano, aprender ainda mais na minha futura empresa, manter a dedicação no aprendizado e na curiosidade para ficar atualizado no mundo tech e com isso evoluir na minha senioridade.
 
